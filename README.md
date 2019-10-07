@@ -15,3 +15,5 @@ https://askubuntu.com/questions/771562/16-04-power-off-discrete-graphics-ati-amd
 1. Disable radeon card.
 1. Set up wifi.
 https://gist.github.com/jamespamplin/7a803fd5be61d4f93e0c5dcdea3f99ee
+1. Enable multitouch gestures
+https://copr.fedorainfracloud.org/coprs/mhoeher/multitouch/
