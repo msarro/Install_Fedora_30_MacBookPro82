@@ -10,6 +10,7 @@ https://bugzilla.redhat.com/show_bug.cgi?id=765954
 1. Install the OS.
 1. Set kernel parameters.
 https://www.dedoimedo.com/computers/fedora-30-grub-persistent-changes.html
+https://askubuntu.com/questions/771562/16-04-power-off-discrete-graphics-ati-amd
 1. Update OS.
 1. Disable radeon card.
 1. Set up wifi.
